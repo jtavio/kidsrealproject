@@ -3,7 +3,7 @@
     <section id="banner">
       <header>
          <blockquote class="blockquote text-center">
-        <h5 class="mb-0 text-white"> <em> "La estimación temprana es la parte más importante en la vida del ser humano y aun más en las personas con Discapacidad Intelectual, es por ello, que les estaremos brindando herramientas para instaurar patrones de aprendizajes y que mejor manera que hacerlo de una manera lúdica." </em></h5>
+        <h5 class="mb-0 text-white"> <em> "La estimación temprana es la parte más importante en la vida del ser humano y aun más en las personas con Discapacidad Intelectual, es por ello, que les estaremos brindando herramientas para instaurar patrones de aprendizajes y que mejor manera que hacerlo de una manera lúdica." <p><b>Importante Reforzar, Recordar y Repetir </b></p>  </em></h5>
         <footer class="blockquote-footer"><cite title="Source Title">Lic. Jasmin Vallenilla</cite></footer>
       </blockquote>
       </header>
@@ -61,7 +61,7 @@ export default {
   padding: 0;
   font-style: normal;
   margin: 0;
-  font-size: 1.5em;
+  font-size: 1.3em;
 }
 
 @media screen and (max-width: 1280px) {

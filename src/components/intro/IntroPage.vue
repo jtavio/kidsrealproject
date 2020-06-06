@@ -5,7 +5,7 @@
         <div class="card shadow-sm rounded">
           <img src="../../assets/matematicas.svg" class="icon-math mx-auto icons-kids" alt=""> 
           <div class="card-body">
-            <h5 class="card-title font-weight-bolder">Matematica</h5>
+            <h5 class="card-title font-weight-bolder">Pre-calculo</h5>
             <p class="card-text">
               This is a longer card with supporting text below as a natural
               lead-in to additional content. This content is a little bit longer.
@@ -20,10 +20,9 @@
         />
          
           <div class="card-body">
-            <h5 class="card-title font-weight-bolder">Lectura</h5>
+            <h5 class="card-title font-weight-bolder">Pre-lectura</h5>
             <p class="card-text">
-              This card has supporting text below as a natural lead-in to
-              additional content.
+              La lectura es una herramienta importante y que los niños la puedan adquirir, mediante la estimación en la cual se inicia al niño en el reconocimiento de las vocales...
             </p>
             <p class="card-text">
              <router-link to="/readme" class="btn btn-primary">Saber más...</router-link>
@@ -37,7 +36,7 @@
           </div>
         
           <div class="card-body">
-            <h5 class="card-title font-weight-bolder">Escritura</h5>
+            <h5 class="card-title font-weight-bolder">Pre-escritura</h5>
             <p class="card-text">
               This is a wider card with supporting text below as a natural lead-in
               to additional content. This card has even longer content than the
